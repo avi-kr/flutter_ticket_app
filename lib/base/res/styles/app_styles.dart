@@ -10,6 +10,7 @@ class AppStyles {
   static Color textColor = const Color(0xFF3b3b3b);
   static Color searchIconColor = const Color(0xFFBFC205);
   static Color searchBoxColor = const Color(0xFFF4F6FD);
+  static Color ticketBlue = const Color(0xFF526799);
 
   static TextStyle textStyle = TextStyle(
     fontSize: 16,
